@@ -1,19 +1,17 @@
 ---
-title: "Joel Rodriguez H"
+title: "Joel Rodriguez Herrera"
 image: "Mi_foto.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: Facebook
+    url: "https://www.facebook.com/joel.rodr.5"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/joelrh-lcg"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:joelrh@lcg.unam.mx"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+Student in the 17th generation of Genomic Sciences Undergrad at the Center for
+Genomic Sciences, UNAM, Cuernavaca. Bioinformatics passionate.
+Intern at the Computational Genomics Program.
